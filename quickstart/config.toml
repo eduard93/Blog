@@ -1,0 +1,4 @@
+baseURL = 'https://eduard93.github.io/Blog'
+languageCode = 'en-us'
+title = 'Ed Blogs'
+theme = 'ananke'
