@@ -20,7 +20,7 @@ jobs:
         hugo-version: 'latest'
 
     - name: Build
-      run: cd quickstart && hugo -D
+      run: cd quickstart && hugo -D && cd public && ls -al
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2
