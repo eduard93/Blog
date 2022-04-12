@@ -10,7 +10,7 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-description: "Lohengrin premiere."
+description: "Opera by Richard Wagner. Premiere."
 disableHLJS: true # to disable highlightjs
 disableShare: false
 hideSummary: false
@@ -21,6 +21,12 @@ ShowPostNavLinks: true
 cover:
     image: "/Lohengrin_0.jpg"
 ---
+
+> Lohengrin is a Romantic opera in three acts composed and written by Richard Wagner, first performed in 1850. The story of the eponymous character is taken from medieval German romance, notably the Parzival of Wolfram von Eschenbach, and its sequel Lohengrin, itself inspired by the epic of Garin le Loherain. It is part of the Knight of the Swan legend.
+>
+> The opera has inspired other works of art. King Ludwig II of Bavaria named his castle Neuschwanstein Castle after the Swan Knight. It was King Ludwig's patronage that later gave Wagner the means and opportunity to complete, build a theatre for, and stage his epic cycle Der Ring des Nibelungen. He had discontinued composing it at the end of Act II of Siegfried, the third of the Ring tetralogy, to create his radical chromatic masterpiece of the late 1850s, Tristan und Isolde, and his lyrical comic opera of the mid-1860s, Die Meistersinger von Nürnberg.
+>
+> The most popular and recognizable part of the opera is the Bridal Chorus, colloquially known as "Here Comes the Bride," usually played as a processional at weddings. The orchestral preludes to Acts I and III are also frequently performed separately as concert pieces. 
 
 Went to the Lohengrin premiere today in Bolshoi. Everything else in the world notwithstanding it was great. 
 
