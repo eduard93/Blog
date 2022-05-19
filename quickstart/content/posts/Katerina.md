@@ -19,7 +19,11 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "/Lohengrin_0.jpg"
+    image: "Katerina_0.jpg"
+    alt: "The alt text"
+    caption: ""
+    relative: false
+
 ---
 
 > Lady Macbeth of Mtsensk is an opera in four acts and nine scenes by Dmitri Shostakovich, his Opus 29. The libretto, jointly written by Alexander Preys and the composer, is based on the novella Lady Macbeth of the Mtsensk District by Nikolai Leskov. 
