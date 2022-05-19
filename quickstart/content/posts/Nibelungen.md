@@ -22,11 +22,13 @@ cover:
     image: "/Nibelungen_0.jpg"
 ---
 
-Seen during March 11, March 23, March 24, and April 17. At 15 hours, this is the longest opera cycle, I've ever heard. 
+Seen in Zaryadye Hall during March 11, March 23, March 24, and April 17. At 15 hours, this is the longest opera cycle, I've ever heard. 
 
 Great music. The ride of Valkyries was awesome to hear live. Funny that most of the dialogue during the piece was about horses. Never would have guessed.
 
 Favorite performance is Siegfried by Mihail Vekua. Valery Gergiev conducted and wasn't that just ironic for the Götterdämmerung performance?
+
+I was also surprised to discover that Tolkien took a lot from Wagner for the Lord of the Rings.
 
 ![image](/Nibelungen_0.jpg#center)
 ![image](/Nibelungen_1.jpg#center)
